@@ -80,7 +80,7 @@ Click “Install Now!”
 <a href="https://imgur.com/aTwn5A6"><img src="https://i.imgur.com/aTwn5A6.png" title="source: imgur.com" /></a>
 
 
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php <a href="https://imgur.com/Ol4BJxD"><img src="https://i.imgur.com/Ol4BJxD.png" title="source: imgur.com" /></a>
 
 End Users osTicket URL:
 
@@ -121,10 +121,10 @@ Personal Computer Issues
 Equipment Request
 Password Reset
 
-Part 4 (Tickets and Ticket Lifecycle)
+Part 4 (Tickets and Ticket Lifecycle) <a href="https://imgur.com/6XwdqjJ"><img src="https://i.imgur.com/6XwdqjJ.png" title="source: imgur.com" /></a>
 
-Just practice creating, triaging, and solving tickets. I recommend watching the video to learn about triaging multiple tickets.
-Ticket examples:
+
+Ticket examples: <a href="https://imgur.com/6ffBpHX"><img src="https://i.imgur.com/6ffBpHX.png" title="source: imgur.com" /></a>
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
 Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]

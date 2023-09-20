@@ -3,16 +3,16 @@
  
     
 
-1. Make A Virtual Machine in Azure
+1. Make A Virtual Machine in Azure ![image](https://github.com/BrianSpencer23/brianspencer23/assets/139722626/0c944ae8-d78c-4f05-b383-c95d5b94ed38)
 2. Select Windows 10
 3. Make username and password that is easy to remember for further usage 
 4. Copy and paste the IP Address to access and start the usage of Virtual Machine 
 5. While operating the vm change all of the settings to no.
 6. Next, go into settings on the windows browser to open the installation files
-7. Install and Enable IIS in windows with CGI and Common HTTP features: 		World Wide Web Services -> Application Development Features -CGI Common HTTP Features. Internet Information Services -> Web Management Tools -> IIS Management Console
-8. Next up, go installation files and download and install PHP Manager and Rewrite Module
+7. Install and Enable IIS in windows with CGI and Common HTTP features: 		World Wide Web Services -> Application Development Features -CGI Common HTTP Features. Internet Information Services -> Web Management Tools -> IIS Management Console <a href="https://imgur.com/GgRBWHG"><img src="https://i.imgur.com/GgRBWHG.png" title="source: imgur.com" /></a>          
+8. Next up, go installation files and download and install PHP Manager and Rewrite Module <a href="https://imgur.com/JSfLo1F"><img src="https://i.imgur.com/JSfLo1F.png" title="source: imgur.com" /></a>
   9. Create the directory C:\PHP - From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
-10. From the Installation Files, download and install VC_redist.x86.exe.
+10. From the Installation Files, download and install VC_redist.x86.exe. <a href="https://imgur.com/dzgDP14"><img src="https://i.imgur.com/dzgDP14.png" title="source: imgur.com" /></a>
 
 
 11. From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
@@ -24,7 +24,7 @@ Password1
 Open IIS as an Admin
 Register PHP from within IIS
 Reload IIS (Open IIS, Stop and Start the server)
-
+<a href="https://imgur.com/lKorgH8"><img src="https://i.imgur.com/lKorgH8.png" title="source: imgur.com" /></a>
 
 12. Install osTicket v1.15.8
 
@@ -32,10 +32,10 @@ Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
-Reload IIS (Open IIS, Stop and Start the server)
+Reload IIS (Open IIS, Stop and Start the server)<a href="https://imgur.com/aKKEtZG"><img src="https://i.imgur.com/aKKEtZG.png" title="source: imgur.com" /></a>
 
 
-Go to sites -> Default -> osTicket
+Go to sites -> Default -> osTicket <a href="https://imgur.com/dWeWz6W"><img src="https://i.imgur.com/dWeWz6W.png" title="source: imgur.com" /></a>
 
 On the right, click “Browse *:80”
 
@@ -49,7 +49,7 @@ Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browse, observe the changes
 
-Rename: ost-config.php
+Rename: ost-config.php <a href="https://imgur.com/yzG1y4K"><img src="https://i.imgur.com/yzG1y4K.png" title="source: imgur.com" /></a>
 
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
@@ -77,7 +77,7 @@ MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: Password1
 Click “Install Now!”
-
+<a href="https://imgur.com/aTwn5A6"><img src="https://i.imgur.com/aTwn5A6.png" title="source: imgur.com" /></a>
 
 
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
@@ -87,7 +87,7 @@ End Users osTicket URL:
 http://localhost/osTicket/ 
 
 Part 3 (Post Installation Setup)
-
+<a href="https://imgur.com/6ffBpHX"><img src="https://i.imgur.com/6ffBpHX.png" title="source: imgur.com" /></a>
 Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin

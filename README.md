@@ -124,7 +124,10 @@ Password Reset
 Part 4 (Tickets and Ticket Lifecycle) <a href="https://imgur.com/6XwdqjJ"><img src="https://i.imgur.com/6XwdqjJ.png" title="source: imgur.com" /></a>
 
 
-Ticket examples: <a href="https://imgur.com/6ffBpHX"><img src="https://i.imgur.com/6ffBpHX.png" title="source: imgur.com" /></a>
+Ticket examples as shown: <a href="https://imgur.com/6ffBpHX"><img src="https://i.imgur.com/6ffBpHX.png" title="source: imgur.com" /></a>
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
 Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+
+
+With repeating this process you can be sure to find this process to be easy the more times you do the task.

@@ -1,6 +1,7 @@
 <h1>Hello there! my name is Brian S.<h1>
 [linkedin] :https://www.linkedin.com/in/brian-spencer-740b93227/
-[instagram] :https://www.instagram.com/brianspencer_95/
+
+ [instagram] :https://www.instagram.com/brianspencer_95/
 
  
 

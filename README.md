@@ -135,3 +135,5 @@ Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 
 With repeating this whole  process you can be sure to find it to be easy the more times you do the tasks that are provided. 
+
+[linkedin]:https://www.linkedin.com/in/brian-spencer-740b93227/

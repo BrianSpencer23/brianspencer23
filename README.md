@@ -90,7 +90,7 @@ Part 3 (Post Installation Setup)
 
 Next Steps: Here we have the process of the daily task of working with OSTicket.
 <a href="https://imgur.com/6ffBpHX"><img src="https://i.imgur.com/6ffBpHX.png" title="source: imgur.com" /></a>
-Next Steps: Here we have the process of the daily task of working with OSTicket.
+Follow these next steps:
 Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin

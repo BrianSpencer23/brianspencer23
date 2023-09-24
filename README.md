@@ -134,4 +134,4 @@ Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
 Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
 
-With repeating this process you can be sure to find this process to be easy the more times you do the task.
+With repeating this whole  process you can be sure to find it to be easy the more times you do the tasks that are provided. 

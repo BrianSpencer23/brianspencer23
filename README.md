@@ -1,8 +1,7 @@
 <h1>Hi there my name is Brian<h1>
- Step By Step Process To Access OSticket 
  Today I will break down the process of installing and working with OSTicket through a Virtual Machine using Windows 10 
+ Step By Step Process To Access OSticket 
     
-
 1. Make A Virtual Machine in Azure ![image](https://github.com/BrianSpencer23/brianspencer23/assets/139722626/0c944ae8-d78c-4f05-b383-c95d5b94ed38)
 2. Select Windows 10
 3. Make username and password that is easy to remember for further usage 

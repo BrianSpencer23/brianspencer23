@@ -88,6 +88,7 @@ http://localhost/osTicket/
 
 Part 3 (Post Installation Setup)
 <a href="https://imgur.com/6ffBpHX"><img src="https://i.imgur.com/6ffBpHX.png" title="source: imgur.com" /></a>
+Next Steps: Here we have the process of the daily task of working with OSTicket.
 Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin
